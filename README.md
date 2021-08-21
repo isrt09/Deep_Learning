@@ -1,8 +1,23 @@
 ## aiQuest &amp; StudyMart - Deep Learning &amp; NLP with Python
-## Module 1 - Introduction to Deep Learning
-- Why Deep Learning?
-- What is a neural network?
-- Three reasons to go Deep
-- Your choice of Deep Net
+
+## Convolutional Neural Networks (CNN)
+- Familier with Libraries
+- Normalizing the dataset
+- One Hot Encoding
+- Propagation
+- Basic CNN
+- Project with CNN Based on Image Classification
+
+## Natural Language Processing (NLP) :
+- Sentence Segmentation
+- Word Tokenization
+- Stemming
+- Lemmatization
+- Identifying Stop Words
+- Dependency Parsing
+- POS tags
+- Named Entity Recognition (NER)
+- Chunking
+
 
 ![alt text](https://github.com/isrt09/Deep_Learning/blob/main/Cover.png?raw=true)
