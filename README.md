@@ -1,7 +1,7 @@
 ## aiQuest &amp; StudyMart - Deep Learning &amp; NLP with Python
 
 ## Convolutional Neural Networks (CNN)
-- Familier with Libraries
+- Familiar with Libraries
 - Normalizing the dataset
 - One Hot Encoding
 - Propagation
