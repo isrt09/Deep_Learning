@@ -1,5 +1,7 @@
 ## aiQuest &amp; StudyMart - Deep Learning &amp; NLP with Python
 
+![alt text](https://github.com/isrt09/Deep_Learning/blob/main/Cover.png?raw=true)
+
 ## Convolutional Neural Networks (CNN)
 - Familiar with Libraries
 - Normalizing the dataset
@@ -20,4 +22,4 @@
 - Chunking
 
 
-![alt text](https://github.com/isrt09/Deep_Learning/blob/main/Cover.png?raw=true)
+
