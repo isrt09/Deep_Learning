@@ -29,6 +29,8 @@
 - POS tags
 - Named Entity Recognition (NER)
 - Chunking
+- Text Classification
+- Text Summarization
 
 ## Recurrent Neural Networks (RNN):
 - Prediction problems
